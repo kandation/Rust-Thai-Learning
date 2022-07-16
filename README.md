@@ -29,6 +29,7 @@ https://nullderef.com/blog/rust-parameters/
 - [วิธีเขียน Command-line interface ด้วย Clap](https://medium.com/@be.munin/rust-%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-command-line-interface-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-clap-%E0%B8%81%E0%B8%B1%E0%B8%9A-console-crate-f0c52323eb34)
 - [เจาะลึกหน่วยความจำ Stack, Heap และ Virtual memory (Part 1)](https://medium.com/@be.munin/rust-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B3-stack-heap-%E0%B9%81%E0%B8%A5%E0%B8%B0-virtual-memory-part-1-93c0cc77874f)
 - [Rust: เจาะลึกหน่วยความจำ Stack, Heap และ Virtual memory (Part 2 ตอนจบ)](https://medium.com/@be.munin/rust-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B3-stack-heap-%E0%B9%81%E0%B8%A5%E0%B8%B0-virtual-memory-part-2-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%88%E0%B8%9A-c65de4581aaf)
+- [Rust RFC รายละเอียดการอัพเดทแต่ละครั้ง](https://rust-lang.github.io/rfcs/introduction.html)
 # Rust Thai Community
 (เรียงตามความถี่การเคลื่อนไหว)
 
