@@ -37,6 +37,11 @@ https://nullderef.com/blog/rust-parameters/
 # Share Experience
 - [ปัญหา Thread กับการตัดคำ | @veer66](https://www.youtube.com/watch?v=FkgolOwTeWc)
 
+# ShortNote
+รวมเอา lib น่าสนใจ (สำหรับตัวเอง)
+- **Web**
+  - https://salvo.rs/
+
 # Rust Thai Community
 (เรียงตามความถี่การเคลื่อนไหว)
 
