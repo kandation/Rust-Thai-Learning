@@ -17,7 +17,9 @@
 # Video  เรียงตามเวลาล่าสุด
 - 2565-07-09 [th] [Rust Programming Language playlist](https://www.youtube.com/playlist?list=PLiVVfnY4ieNoacRsIQtD-0oSVyC0XC-KJ) | [Cumming soon](https://www.youtube.com/channel/UCofe7J3tzz9xlHMz5yFX3Xg)
 - 2565-03-29 [th] | [Rustaceans Bangkok 3.0.0](https://www.facebook.com/rustaceansthailand/videos/1373815506373832/) | [Rustaceans Thailand](https://www.facebook.com/rustaceansthailand)
+
 - 2565-12-13 [th] [Rustacean Bangkok 2.0.0](https://www.facebook.com/rustaceansthailand/videos/885511865482174) | [Rustaceans Thailand](https://www.facebook.com/rustaceansthailand)
+- 2564-12-04 [th] [Rust 101 (Playlist)](https://www.youtube.com/playlist?list=PLWApnCxWplk7nuxEI3mwiAcg6DdjS9QU_) | [KubeOps Skills](https://www.youtube.com/c/KubeOpsSkills) ❤️
 - 2565-01-04 [th] [Rust Programming EP.3 HTTP Server](https://www.youtube.com/watch?v=MZRlVMoef94) | [CodeBangkok](https://www.youtube.com/c/CodeBangkok) 
 - 2564-12-28 [th] [Rust Programming EP.2](https://www.youtube.com/watch?v=k9ZzKG8fdN8) | [CodeBangkok](https://www.youtube.com/c/CodeBangkok) 
 - 2564-12-09 [th] [Rust Programming Ep.1](https://www.youtube.com/watch?v=GVCR8b_33zo) | [CodeBangkok](https://www.youtube.com/c/CodeBangkok) ❤️
@@ -30,6 +32,11 @@ https://nullderef.com/blog/rust-parameters/
 - [เจาะลึกหน่วยความจำ Stack, Heap และ Virtual memory (Part 1)](https://medium.com/@be.munin/rust-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B3-stack-heap-%E0%B9%81%E0%B8%A5%E0%B8%B0-virtual-memory-part-1-93c0cc77874f)
 - [Rust: เจาะลึกหน่วยความจำ Stack, Heap และ Virtual memory (Part 2 ตอนจบ)](https://medium.com/@be.munin/rust-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B3-stack-heap-%E0%B9%81%E0%B8%A5%E0%B8%B0-virtual-memory-part-2-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%88%E0%B8%9A-c65de4581aaf)
 - [Rust RFC รายละเอียดการอัพเดทแต่ละครั้ง](https://rust-lang.github.io/rfcs/introduction.html)
+- [Naming Guide](https://rust-lang.github.io/api-guidelines/naming.html)
+
+# Share Experience
+- [ปัญหา Thread กับการตัดคำ | @veer66](https://www.youtube.com/watch?v=FkgolOwTeWc)
+
 # Rust Thai Community
 (เรียงตามความถี่การเคลื่อนไหว)
 
