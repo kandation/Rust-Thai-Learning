@@ -33,6 +33,7 @@ https://nullderef.com/blog/rust-parameters/
 - [Rust: เจาะลึกหน่วยความจำ Stack, Heap และ Virtual memory (Part 2 ตอนจบ)](https://medium.com/@be.munin/rust-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B3-stack-heap-%E0%B9%81%E0%B8%A5%E0%B8%B0-virtual-memory-part-2-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%88%E0%B8%9A-c65de4581aaf)
 - [Rust RFC รายละเอียดการอัพเดทแต่ละครั้ง](https://rust-lang.github.io/rfcs/introduction.html)
 - [Naming Guide](https://rust-lang.github.io/api-guidelines/naming.html)
+- [zero-to-production](https://github.com/LukeMathWalker/zero-to-production) ❤️
 
 # Share Experience
 - [ปัญหา Thread กับการตัดคำ | @veer66](https://www.youtube.com/watch?v=FkgolOwTeWc)
