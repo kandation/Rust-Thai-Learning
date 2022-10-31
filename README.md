@@ -34,6 +34,7 @@ https://nullderef.com/blog/rust-parameters/
 - [Rust RFC รายละเอียดการอัพเดทแต่ละครั้ง](https://rust-lang.github.io/rfcs/introduction.html)
 - [Naming Guide](https://rust-lang.github.io/api-guidelines/naming.html)
 - [zero-to-production](https://github.com/LukeMathWalker/zero-to-production) ❤️
+- [All Algorithm by Rust](https://github.com/TheAlgorithms/Rust)
 
 # Share Experience
 - [ปัญหา Thread กับการตัดคำ | @veer66](https://www.youtube.com/watch?v=FkgolOwTeWc)
